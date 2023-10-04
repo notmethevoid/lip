@@ -1,0 +1,5 @@
+# dune init project adder
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/alexandra/Desktop/LIP/lip-main/basics/adder
+# Auto-detected concurrency: 4
